@@ -12,6 +12,7 @@
     "editor.minimap.enabled": false,
     "window.zoomLevel": 0,
     "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontFamily": "Iosevka, Menlo, Monaco, monospace",
     "workbench.colorTheme": "Visual Studio Light",
     "editor.fontFamily": "Iosevka, Menlo, Monaco, monospace"
 }
