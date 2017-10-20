@@ -6,6 +6,7 @@
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
     "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
     "editor.insertSpaces": true,
     "editor.detectIndentation": true,
     "editor.renderIndentGuides": false,
